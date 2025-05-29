@@ -39,8 +39,7 @@ statistics_project/
 ├── project4
 ├── project5
 ├── project6      
-├── README.md
-├── Makefile             
+├── README.md           
 ├── docs/                
 └──   └── 발표자료.ppt   
 
