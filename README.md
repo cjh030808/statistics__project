@@ -2,6 +2,10 @@
 
 # 🐍 파이썬으로 만들어보는 재미있는(?) Estimation plotting project
 [![Language: PYTHON](https://img.shields.io/badge/Language-python-blue.svg)](<https://en.wikipedia.org/wiki/python_(programming_language)>)
+[![NUMPY](https://numpy.org/images/logo.svg)>)
+[![MATPLOTLIB](https://matplotlib.org/_static/logo2_compressed.svg)>)
+[![SCIPY](https://scipy.org/_static/images/logo.svg)>)
+[![SEABORN](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)>)
 
 이 프로젝트는 세계 최강 홍광일과 맨날 배아프다고 찡찡거리는 조재현이 함께합니다!! 🚀
 
@@ -10,11 +14,11 @@
 - 🐼 **PANDAS**: PANDAS를 사용하지 않을까요? 잘 모르겠습니다.
 - 🌐 **MATPLOTLIB**: Matplotlib을 이용해서 차트를 이쁘게 그려봅시다.
 - 🎂 **NUMPY**: 전 Numpy보다는 초코파이가 좋습니다.
+- 🌊 **SEABORN**: 이 라이브러리는 바다에서 태어났습니다.
 - ❤ **SCIPY**: import as SNS 로 합니다. SNS 하면 하트가 대세죠.
 
-## 🚀 빠른 시작
-
 ### 사전 요구사항
+**개발 가이드라인을 지켜주세요**
 
 구글 코랩을 적극 활용해주세요
 코랩을 사용하면 pandas와 matplotlib 이용이 자유롭습니다!
