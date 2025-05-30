@@ -1,4 +1,4 @@
-# statistics__project
+# statistics\_\_project
 
 # 🐍 파이썬으로 만들어보는 재미있는(?) Estimation plotting project
 
@@ -9,18 +9,16 @@
 
 ## ✨ 특징
 
-- 🐼 **PANDAS**: PANDAS를 사용하지 않을까요? 잘 모르겠읍니다. 
+- 🐼 **PANDAS**: PANDAS를 사용하지 않을까요? 잘 모르겠읍니다.
 - 🌐 **MATPLOTLIB**: Matplotlib을 이용해서 차트를 이쁘게 그려봅시다.
-
 
 ## 🚀 빠른 시작
 
 ### 사전 요구사항
 
-```bash
-import matplotlib 
-// 등등...
-```
+구글 코랩을 적극 활용해주세요
+코랩을 사용하면 pandas와 matplotlib 이용이 자유롭습니다!
+https://colab.research.google.com/
 
 ### 컴파일 및 실행
 
@@ -33,15 +31,15 @@ git clone https://github.com/cjh030808/statistics_project.git
 
 ```
 statistics_project/
-├── project1              
+├── project1
 ├── project2
 ├── project3
 ├── project4
 ├── project5
-├── project6      
-├── README.md           
-├── docs/                
-└──   └── 발표자료.ppt   
+├── project6
+├── README.md
+├── docs/
+└──   └── 발표자료.ppt
 
 ```
 
@@ -54,11 +52,9 @@ statistics_project/
 - 프로젝트 1, 2, 3, 4, 5, 6 으로 나누어지므로 각 프로젝트에 맞게 폴더를 만들어주세요.
 - git push 전에, 반드시 pull 받은 후에 진행해주세요.
 
-
 ## 📬 연락처
 
 - 이슈: [GitHub Issues](https://github.com/cjh030808/statistics_project/issues)
 - 이메일: cjh030808@kau.kr
 
 ---
-

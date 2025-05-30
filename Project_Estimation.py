@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 pd.options.display.float_format = '{:,.0f}'.format #공학적 표현 비활성화
 
-df = pd.read_csv(r"C:\Users\55\Desktop\코딩\pythonWorkspace\확통 과제\korea_rental_housing.csv", encoding="cp949")
+df = pd.read_csv(r".\korea_rental_housing.csv", encoding="cp949")
 #다운로드 한 데이터를 절대경로를 이용해 가져옴
 
 df_seoul = df[df['광역시도'] == '서울특별시']      #전국의 지역 중 서울특별시
