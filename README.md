@@ -2,12 +2,7 @@
 
 # 🐍 파이썬으로 만들어보는 재미있는(?) Estimation plotting project
 [![Language: PYTHON](https://img.shields.io/badge/Language-python-blue.svg)](<https://en.wikipedia.org/wiki/python_(programming_language)>)
-<p align="center">
-  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="120"/>
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="120"/>
-  <img src="https://scipy.org/_static/images/logo.svg" alt="SciPy" width="120"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="150"/>
-</p>
+
 
 이 프로젝트는 세계 최강 홍광일과 맨날 배아프다고 찡찡거리는 조재현이 함께합니다!! 🚀
 
