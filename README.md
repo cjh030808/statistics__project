@@ -1,8 +1,6 @@
 # statistics\_\_project
 
 # 🐍 파이썬으로 만들어보는 재미있는(?) Estimation plotting project
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language: PYTHON](https://img.shields.io/badge/Language-python-blue.svg)](<https://en.wikipedia.org/wiki/python_(programming_language)>)
 
 이 프로젝트는 세계 최강 홍광일과 맨날 배아프다고 찡찡거리는 조재현이 함께합니다!! 🚀
