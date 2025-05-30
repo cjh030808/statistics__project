@@ -9,8 +9,10 @@
 
 ## ✨ 특징
 
-- 🐼 **PANDAS**: PANDAS를 사용하지 않을까요? 잘 모르겠읍니다.
+- 🐼 **PANDAS**: PANDAS를 사용하지 않을까요? 잘 모르겠습니다.
 - 🌐 **MATPLOTLIB**: Matplotlib을 이용해서 차트를 이쁘게 그려봅시다.
+- 🎂 **NUMPY**: 전 Numpy보다는 초코파이가 좋습니다.
+- ❤ **SCIPY**: import as SNS 로 합니다. SNS 하면 하트가 대세죠.
 
 ## 🚀 빠른 시작
 
@@ -31,8 +33,9 @@ git clone https://github.com/cjh030808/statistics_project.git
 
 ```
 statistics_project/
-├── project1
-├── project2
+├── korea_rental_housing.csv  // project 1, 2, 3의 데이터
+├── presentation.txt          // 발표 자료를 정리해두었습니다
+├── Project_Estimation.py     // project1 + project2 파일
 ├── project3
 ├── project4
 ├── project5
@@ -43,13 +46,9 @@ statistics_project/
 
 ```
 
-## 📊 코드 품질
-
-좋으면 좋겠네여
-
 ### 개발 가이드라인
 
-- 프로젝트 1, 2, 3, 4, 5, 6 으로 나누어지므로 각 프로젝트에 맞게 폴더를 만들어주세요.
+- 프로젝트 1, 2, 3, 4, 5, 6 으로 나누어지므로 각 프로젝트에 맞게 파일을 만들어주세요.
 - git push 전에, 반드시 pull 받은 후에 진행해주세요.
 
 ## 📬 연락처
