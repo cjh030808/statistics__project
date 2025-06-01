@@ -31,14 +31,17 @@ git clone https://github.com/cjh030808/statistics_project.git
 
 ```
 statistics_project/
+├── presentation.txt
 ├── project1
 ├── project2
 ├── project3
-├── project4
-├── project5
-├── project6
+├── project_456.py
 ├── README.md
-├── docs/
+├── assets/
+|     ├── image
+|     |     ├── project4.png
+|     |     ├── project5.png
+|     |     └── project6.png
 └──   └── 발표자료.ppt
 
 ```
