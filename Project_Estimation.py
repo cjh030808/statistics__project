@@ -9,7 +9,7 @@ df = pd.read_csv(r"C:\Users\55\Desktop\코딩\pythonWorkspace\확통 과제\kore
 df_seoul = df[df['광역시도'] == '서울특별시']      #전국의 지역 중 서울특별시
 df_monthly_rent = df_seoul['월임대료'].describe()  # 서울 임대료 통계량 보기
 
-# print(df_seoul[['광역시도', '월임대료']])       # 서울 지역과 임대료만 출력
+print(df_seoul[['광역시도', '월임대료']])       # 서울 지역과 임대료만 출력
 # print(df_monthly_rent)
 
 
