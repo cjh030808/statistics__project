@@ -12,7 +12,6 @@ df_monthly_rent = df_seoul['월임대료'].describe()  # 서울 임대료 통계
 print(df_seoul[['광역시도', '월임대료']])       # 서울 지역과 임대료만 출력
 print(df_monthly_rent)
 
-
 #---------2번---------
 plt.figure(figsize=(10, 6))
 df_seoul['월임대료'].dropna().astype(float).hist(bins=30, color='skyblue', edgecolor='black')
